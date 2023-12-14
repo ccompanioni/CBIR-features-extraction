@@ -1,5 +1,8 @@
 # Mobile-Based Painting Photo Retrieval using Combined Features
 Idea of the project: To help art lovers find similar paintings based on mobile photoshoots of a random painting in a museums
+
+Users of this code are encouraged to cite the following article: Companioni-Brito, C., Mariano-Calibjo, Z., Elawady, M., Yildirim, S. (2018). Mobile-Based Painting Photo Retrieval Using Combined Features. In: Campilho, A., Karray, F., ter Haar Romeny, B. (eds) Image Analysis and Recognition. ICIAR 2018. Lecture Notes in Computer Science(), vol 10882. Springer, Cham. https://doi.org/10.1007/978-3-319-93000-8_32
+
 Input: mobile-based photo of an unknown painting
 Output: similar famous paintings (Top-5) with respect to color and texture properties + tag info (i.e. artist name, title, year, style)
 
