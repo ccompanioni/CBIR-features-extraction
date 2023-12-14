@@ -3,6 +3,8 @@ Idea of the project: To help art lovers find similar paintings based on mobile p
 Input: mobile-based photo of an unknown painting
 Output: similar famous paintings (Top-5) with respect to color and texture properties + tag info (i.e. artist name, title, year, style)
 
+![Screenshot](mobile_painting.png)
+
 Dataset: https://www.kaggle.com/c/painter-by-numbers/ (+100,000)
 
 Texture - GLCM, LBP
