@@ -1,6 +1,6 @@
 # Mobile-Based Painting Photo Retrieval using Combined Features
-Idea of the project: To help art lovers find similar paintings based on mobile photoshoot of a random painting in a museums
-Input: mobile-based photo of unknown painting
+Idea of the project: To help art lovers find similar paintings based on mobile photoshoots of a random painting in a museums
+Input: mobile-based photo of an unknown painting
 Output: similar famous paintings (Top-5) with respect to color and texture properties + tag info (i.e. artist name, title, year, style)
 
 Dataset: https://www.kaggle.com/c/painter-by-numbers/ (+100,000)
